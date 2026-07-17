@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "versionCode": "110",
-  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1/PCInfoPro_WPF_NET48_V1_1_WINDOWSICON_BACKUP_RELEASE.zip",
-  "sha256": "C2867B1AA0830F69E87200A265F404C45CCE2A3094BFDC5734DC1850CF802B8F",
-  "notes": "PCInfoPro Ver 1.1 - iconita Windows pentru Desktop si backup/rollback la fiecare actualizare."
+  "version": "1.1.2",
+  "versionCode": "112",
+  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2/PCInfoPro_WPF_NET48_V1_1_2_CLEAN_HEADER_RELEASE.zip",
+  "sha256": "SHA256_GENERAT_DE_CREATE_RELEASE_ZIP",
+  "notes": "Ver 1.1.2 - header curat: Informatie despre Calculator / CREAT DE FILIUC LUCIAN. Build fix CharacterSpacing."
 }
