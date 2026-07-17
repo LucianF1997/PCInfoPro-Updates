@@ -1,6 +1,6 @@
 {
   "version": "26.1",
-  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/v26.1/PCInfoPro_WPF_NET48_V26_1.zip",
-  "sha256": "PUNE_AICI_SHA256_LA_ZIP",
-  "notes": "Descriere: ce ai schimbat in versiunea noua"
+  "url": "https://raw.githubusercontent.com/LucianF1997/PCInfoPro-Updates/main/PCInfoPro_WPF_NET48_V26_1.zip",
+  "sha256": "DF6A194FA004627DDA8735C62D7B5862947D7A3CFA5F9E83995F3769477096B6",
+  "notes": "PCInfoPro V26.1 - test actualizare online. CurrentVersion actualizat la 26.1."
 }
