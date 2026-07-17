@@ -1,6 +1,7 @@
 {
-  "version": "26.1",
-  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/v26.1/PCInfoPro_WPF_NET48_V1_0_AUTOUPDATE.zip",
-  "sha256": "B691A448454D633EA198CC964EA2E6F25339F778076DE3C5B1DA4EF10B44A7C5",
-  "notes": "Tranzitie de la 26.0 la Ver 1.0 cu actualizare automata. Dupa instalare schimba update.json la schema 1.x."
+  "version": "1.1",
+  "versionCode": "110",
+  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/v1.1/PCInfoPro_WPF_NET48_V1_1_WINDOWSICON_BACKUP_RELEASE.zip",
+  "sha256": "SE_GENEREAZA_AUTOMAT_DE_CREATE_RELEASE_ZIP_BAT",
+  "notes": "PCInfoPro Ver 1.1 - iconita Windows pentru Desktop si backup/rollback la fiecare actualizare."
 }
