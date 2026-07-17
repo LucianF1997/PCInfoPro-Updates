@@ -1,7 +1,7 @@
 {
   "version": "1.1.2",
   "versionCode": "112",
-  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2/WPF_NET48_V1_1_2_CLEAN_HEADER_FIXED_SOURCE.zip",
-  "sha256": "99f4056e01eabb8f80186606a4ea1b5d6ced507e4f0cce009fb75fbfa782528c",
+  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2/PCInfoPro_WPF_NET48_V1_1_2_CLEAN_HEADER_RELEASE.zip",
+  "sha256": "e3a9c84d1b3e9872c3b14a9727c4e0b182c5c93c425655eed9067706ef97f992",
   "notes": "Ver 1.1.2 - header curat: Informatie despre Calculator / CREAT DE FILIUC LUCIAN. Build fix CharacterSpacing."
 }
