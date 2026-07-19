@@ -1,7 +1,7 @@
 {
-    "notes":  "Ver 1.1.2.2 - compatibilitate Windows, cache inteligent, verificare componente la prima activare si actualizare automata cu instalare si curatare.",
-    "url":  "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2.2/PCInfoPro_1.1.2.2_UPDATE_TEST_NETWORK_STYLE_SOURCE.zip",
-    "versionCode":  "1122",
-    "version":  "1.1.2.2",
-    "sha256":  "1a38a5ab948625739cb85dffa316caaf0d49c7d4340508955261320b7d3326f6"
+  "version": "1.1.2.2",
+  "versionCode": "1122",
+  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2.2/PCInfoPro_1.1.2.2_SINGLE_EXE_UPDATE_TEST_SOURCE.zip",
+  "sha256": "86051880256633c56d81d7b18491055d2cebe0ad2d9367bc68aafcd9c36f1ee7",
+  "notes": "Single EXE update: descarca PCInfoPro.exe, sterge tot din folder si lasa doar PCInfoPro.exe."
 }
