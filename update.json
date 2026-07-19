@@ -1,7 +1,7 @@
 {
   "version": "1.1.2.2",
   "versionCode": "1122",
-  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2.2/PCInfoPro_1.1.2.2_SINGLE_EXE_UPDATE_TEST_SOURCE_FIXED.zip",
-  "sha256": "f05d65d61429ece3ea73761361aa3f3e323f56a8ef93f5bea1f33215688310a5",
+  "url": "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2.2/PCInfoPro.exe",
+  "sha256": "d716d6fd32a9253aa43a140e91a81e013b79ddb5b55386a0a38c7117eb703851",
   "notes": "Single EXE update: descarca PCInfoPro.exe, sterge tot din folder si lasa doar PCInfoPro.exe."
 }
