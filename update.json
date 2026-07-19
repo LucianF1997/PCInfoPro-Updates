@@ -1,7 +1,7 @@
 {
-    "notes":  "Ver 1.1.3.1 - compatibilitate Windows, cache inteligent, verificare componente la prima activare si actualizare automata cu instalare si curatare.",
-    "url":  "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.3.1/PCInfoPro_WPF_NET48_V1_1_3_1_RELEASE.zip",
-    "versionCode":  "1131",
-    "version":  "1.1.3.1",
-    "sha256":  "9070195043e40964e88c048f1d74c06b5dde5b3696f35dfb15b4f394e092d6f2"
+    "notes":  "Ver 1.1.2.2 - compatibilitate Windows, cache inteligent, verificare componente la prima activare si actualizare automata cu instalare si curatare.",
+    "url":  "https://github.com/LucianF1997/PCInfoPro-Updates/releases/download/Ver1.1.2.2/PCInfoPro_1.1.2.2_UPDATE_TEST_NETWORK_STYLE_SOURCE.zip",
+    "versionCode":  "1122",
+    "version":  "1.1.2.2",
+    "sha256":  "1a38a5ab948625739cb85dffa316caaf0d49c7d4340508955261320b7d3326f6"
 }
